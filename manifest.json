@@ -1,0 +1,13 @@
+{
+  "background_color": "#08525d",
+  "display": "standalone",
+  "icons": [{
+    "src": "earth.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }],
+  "name": "Space",
+  "short_name": "Space",
+  "start_url": "./",
+  "theme_color": "#08525d"
+}
